@@ -1,0 +1,15 @@
+{
+  "name": "Employee-Directory-App",
+  "version": "1.0.0",
+  "description": "A simple RESTFul API created using nodejs and Mongodb",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.3",
+    "node-restful": "^0.2.2"
+  },
+  "main": "server.js"
+}
